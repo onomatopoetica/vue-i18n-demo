@@ -9,5 +9,6 @@ module.exports = {
       localeDir: "locales",
       enableInSFC: false
     }
-  }
+  },
+    publicPath: process.env.NODE_ENV === 'production' ? '/vue-i18n-demo/' : '/'
 }
