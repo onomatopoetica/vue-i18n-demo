@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,a,s){"use strict";s.r(a);var u=function(){var t=this,a=t.$createElement,s=t._self._c||a;return s("div",{staticClass:"about"},[s("h1",[t._v(t._s(t.$t("about.title")))]),s("p",[t._v(t._s(t.$t("about.para1")))]),s("p",[t._v(t._s(t.$t("about.para2")))]),s("p",[t._v(t._s(t.$t("about.para3")))])])},e=[],n=s("2877"),o={},p=Object(n["a"])(o,u,e,!1,null,null,null);a["default"]=p.exports}}]);
+//# sourceMappingURL=about.2343cead.js.map
