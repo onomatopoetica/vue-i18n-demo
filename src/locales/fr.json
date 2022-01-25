@@ -10,15 +10,8 @@
   "user_greeting": "Bonjour, {name}!",
   "footer": "Construit avec Vue et Vue I18n{0} Alimenté par une quantité excessive de café",
   "card": {
-
     "added": "supplémentaire",
     "likes": "0 personnes ❤️ça pour le moment 😕 | {n} personne ❤️ça | {n} personnes ❤️ça"
-  },
-  "about": {
-    "title": "Qui Sommes-Nous",
-
-    "added": "Added",
-    "likes": "Nobody ❤️ this yet 😕 | {n} person ❤️ this | {n} people ❤️ this"
   },
   "about": {
     "title": "About Us",
