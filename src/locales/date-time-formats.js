@@ -4,6 +4,9 @@ const dateTimeFormats = {
   },
   ar: {
     short: { year: "numeric", month: "long", day: "numeric" }
+  },
+  fr: {
+    short: { year: "numeric", month: "long", day: "numeric" }
   }
 }
 
