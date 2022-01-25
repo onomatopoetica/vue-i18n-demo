@@ -4,6 +4,9 @@ const numberFormats = {
   },
   ar: {
     currency: { style: "currency", currency: "USD", currencyDisplay: "code" }
+  },
+  fr: {
+    currency: { style: "currency", currency: "USD", currencyDisplay: "code" }
   }
 }
 
