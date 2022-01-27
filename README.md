@@ -33,4 +33,3 @@ npm run lint
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # vue-i18n-demo
-# vue-i18n-demo
